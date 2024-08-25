@@ -15,4 +15,9 @@ Create separate classes for policyholders, products, and payments.
 ##### Policyholder Demonstration:
 Create at least two policyholders who have paid for one of the products and display their account details.
 
-
+### CODE USAGE
+<li>The payment, policy holder and product classes are all on seperate files. Ensure all classes are in the same directory</li>
+<li>The policy management code outlines the policy holder deonstration. </li>
+<li>Three policy holder have been created and each has paid for a product. Their details are displayed</li>
+<li>When using the policy management code on jupyter notebook, each of the classes were imported. The classes were saved in .py file</li>
+<li>An alternative jupyter notebook version of the classes have been uploaded. Each contains example usages</li>
